@@ -4,7 +4,9 @@
 1. Téléchargement et installation des outils
 
    -ElasticSearch
+   
    -Logstash
+   
    -Kibana
    -Docker et Docker Compose 
    
