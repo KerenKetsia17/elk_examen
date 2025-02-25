@@ -15,4 +15,5 @@
    $./elasticsearch
 
 3. git clone https://gitlab.com/m2gl1/stock-ms.git
-   cd stock-ms
+
+    cd stock-ms
