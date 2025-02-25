@@ -10,4 +10,5 @@
    -Kibana
    -Docker et Docker Compose 
    
-2.Configuration de Elasticsearch avec la commande $./elasticsearch
+2.Configuration de Elasticsearch avec la commande :
+   $./elasticsearch
