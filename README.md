@@ -13,6 +13,7 @@
 2.Configuration de Elasticsearch avec la commande :
    
    $./elasticsearch
+   Créez un répertoire logstash à la racine du projet.
 
 3. git clone https://gitlab.com/m2gl1/stock-ms.git
 
