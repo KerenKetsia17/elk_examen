@@ -17,3 +17,5 @@
 3. git clone https://gitlab.com/m2gl1/stock-ms.git
 
     cd stock-ms
+
+4.  Créer un fichier docker-compose.yml pour la stack ELK
